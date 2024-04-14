@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyIconButton.qml</file>
+        <file>qml/ThreeIconButton.qml</file>
+        <file>image/ok.png</file>
+        <file>image/ok1.png</file>
+        <file>image/ok2.png</file>
+        <file>image/camera.png</file>
+        <file>image/dianshiju.png</file>
+        <file>image/music.png</file>
+    </qresource>
+</RCC>

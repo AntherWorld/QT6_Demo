@@ -1,0 +1,6 @@
+[2024-04-02 23:13:06.471] [file] [info] this is a main
+[2024-04-02 23:13:10.605] [file] [info] This is an info message
+[2024-04-02 23:13:10.822] [file] [info] This is an info message
+[2024-04-03 00:11:57.450] [file] [info] this is a main
+[2024-04-03 00:11:59.562] [file] [info] This is an info message
+[2024-04-03 00:11:59.803] [file] [info] This is an info message
